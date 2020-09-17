@@ -1,0 +1,7 @@
+body {
+    background: url("images/heart.svg") no-repeat center;
+}
+
+li a {
+    color: green;
+}
